@@ -3,24 +3,6 @@ const img1 = require('../../assets/img/food-table.jpg');
 const img2 = require('../../assets/img/grill.jpg');
 
 $(document).ready(function () {
-  // function createEl()
-
-  // function createLoremIpsum()
-
-  $(document).ready(function () {
-    // DOM manipulation code specific to schedule.html
-  });
-
-  $(document).ready(function () {
-    // DOM manipulation code specific to events.html
-  });
-
-  // function dateConverter()
-
-  $(document).ready(function () {
-    // DOM manipulation code specific to tickets.html
-  });
-
   // First image is hard coded in index.html
   const carouselSlides = [
     {
